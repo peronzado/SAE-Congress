@@ -1,0 +1,12 @@
+rle=0.02307;
+Trial>> xup=0.3487;
+Trial>> yup=0.1136;
+Trial>> yxxup=-22.1229;
+Trial>> yte=2.4*10^(-4);
+Trial>> deltay=0;
+Trial>> xlo=0.1681;
+Trial>> ylo=-0.0416;
+Trial>> yxxlo=2.25*10^3;
+Trial>> alfate=-0.1411;
+Trial>> betate=0.401;
+Trial>> p=[ rle xup yup yxxup xlo ylo yxxlo yte deltay alfate betate]

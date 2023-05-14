@@ -1,0 +1,22 @@
+parsec:
+
+au1*x^0.5 + au2*x^1.5 + au3*x^2.5 + au4*x^3.5 + au5*x^4.5 + au6*x^5.5
+
+
+al1*x^0.5 + al2*x^1.5 + al3*x^2.5 + al4*x^3.5 + al5*x^4.5 + al6*x^5.5
+
+
+
+
+resultados
+
+parsec superior:
+
+aup =
+
+    0.2148
+    0.4142
+   -2.4493
+    4.0967
+   -3.2195
+    0.9433
